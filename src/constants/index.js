@@ -93,18 +93,18 @@ const technologies = [
     name: "Tailwind CSS",
     icon: tailwind,
   },
-  {
-    name: "Bootstrap",
-    icon: bootstrap,
-  },
-  {
-    name: "C",
-    icon: c,
-  },
-  {
-    name: "C++",
-    icon: cpp,
-  },
+  // {
+  //   name: "Bootstrap",
+  //   icon: bootstrap,
+  // },
+  // {
+  //   name: "C",
+  //   icon: c,
+  // },
+  // {
+  //   name: "C++",
+  //   icon: cpp,
+  // },
   {
     name: "Node JS",
     icon: nodejs,
